@@ -1,6 +1,6 @@
 {
     "id": "DB8434BB",
-    "path": "D:/Project/R_Project/Portfolio/global.R",
+    "path": "C:/Users/Lenovo/OneDrive/Desktop/Pravith-portfolio/global.R",
     "project_path": "global.R",
     "type": "r_source",
     "hash": "208061354",
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "5,10",
+        "cursorPosition": "13,0",
         "scrollLine": "0"
     },
     "folds": "",

@@ -1,9 +1,9 @@
 {
     "id": "8C745526",
-    "path": "D:/Project/R_Project/Portfolio/www/styles.css",
+    "path": "C:/Users/Lenovo/OneDrive/Desktop/Pravith-portfolio/www/styles.css",
     "project_path": "www/styles.css",
     "type": "css",
-    "hash": "441596546",
+    "hash": "3610642758",
     "contents": "",
     "dirty": false,
     "created": 1732546514107.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "20,28",
-        "scrollLine": "7"
+        "cursorPosition": "20,2",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1732547497,
+    "lastKnownWriteTime": 1732551561,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1732547497937,
+    "last_content_update": 1732551561800,
     "read_only": false,
     "read_only_alternatives": []
 }

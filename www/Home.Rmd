@@ -7,6 +7,7 @@ output:
 ---
 
 # Hello! I'm Potluri Pravith
+
 ## welcome to my portfolio
 
 I'm passionate about harnessing the power of data to uncover actionable insights and drive meaningful change. My portfolio showcases a diverse range of projects, each a testament to my ability to analyze complex datasets, extract valuable information, and develop solutions.
@@ -16,3 +17,9 @@ Explore my Projects section to learn more about my work. My Resume provides a co
 Ready to collaborate or discuss data-driven innovation? Feel free to reach out via the Contact section. I'm always excited to connect with like-minded individuals and explore new opportunities.
 
 Thank you for visiting and I look forward to connecting with you!
+
+
+## Contact details
+
+#### Email : potluripravith2003@gmail.com
+#### Linkedin : [Potluri Pravith](https://www.linkedin.com/in/potluri-pravith-3a34b9200/)

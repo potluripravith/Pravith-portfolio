@@ -1,9 +1,9 @@
 {
     "id": "664A7573",
-    "path": "D:/Project/R_Project/Portfolio/www/Home.Rmd",
+    "path": "C:/Users/Lenovo/OneDrive/Desktop/Pravith-portfolio/www/Home.Rmd",
     "project_path": "www/Home.Rmd",
     "type": "r_markdown",
-    "hash": "278942024",
+    "hash": "2264580946",
     "contents": "",
     "dirty": false,
     "created": 1732538289552.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "5,0",
+        "cursorPosition": "8,13",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1732547161,
+    "lastKnownWriteTime": 1732551575,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1732547161778,
+    "last_content_update": 1732551575623,
     "read_only": false,
     "read_only_alternatives": []
 }
