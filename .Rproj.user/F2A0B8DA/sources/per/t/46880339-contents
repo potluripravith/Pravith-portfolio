@@ -1,0 +1,11 @@
+shinyServer(function(input, output) {
+
+  output$skeleton_page <- renderUI({  
+    rmd2UI("www/project_skeleton.Rmd")
+  })
+  
+  output$probability_page <- renderUI({  
+    rmd2UI("www/probability_gp.Rmd")
+  })
+  
+})

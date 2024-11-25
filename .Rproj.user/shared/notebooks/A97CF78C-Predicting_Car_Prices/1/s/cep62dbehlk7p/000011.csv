@@ -1,0 +1,10 @@
+"0","ggplot(cars, aes(x = price)) +"
+"0","  geom_histogram(color = ""red"") +"
+"0","  labs("
+"0","    title = ""Distribution of prices in cars dataset"","
+"0","    x = ""Price"","
+"0","    y = ""Frequency"""
+"0","  )"
+"1","[38;5;232m`stat_bin()` using `bins = 30`. Pick
+better value with `binwidth`.[39m
+"

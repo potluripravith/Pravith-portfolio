@@ -1,0 +1,10 @@
+name: m551_final
+title:
+username:
+account: dq-test
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3191793
+bundleId: 3836157
+url: https://dq-test.shinyapps.io/m551_final/
+when: 1604899254.14168

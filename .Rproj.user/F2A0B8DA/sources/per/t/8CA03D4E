@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602520107667.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "208061354",
+    "id" : "8CA03D4E",
+    "lastKnownWriteTime" : 1608365029,
+    "last_content_update" : 1608365029654,
+    "path" : "~/Documents/dataquest/test/M552_GP_solutions/global.R",
+    "project_path" : "global.R",
+    "properties" : {
+        "cursorPosition" : "10,21",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

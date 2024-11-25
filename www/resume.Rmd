@@ -1,0 +1,48 @@
+---
+title: "Resume"
+output: html_document
+---
+
+# Education
+
+**[B-Tech in Computer Science and Engineering, Jawaharlal Nehru University](https://www.jnu.ac.in/)**, 2024  
+- CGPA: 7.08  
+
+**Intermediate (10+2)**, Sri Chaitanya Boys Junior College, 2020]  ()
+- CGPA: 9.63/10  
+
+**High School**, St. Ann's High School, 2018  
+- CGPA: 9.8/10  
+
+# Skills
+
+- Python
+- SQL 
+- Java (Beginner)
+- Matplotlib 
+- Numpy
+- TensorFlow
+- Git
+- R Programming
+# Work Experience 
+[click here for certificate](https://internshala.com/student/certificate/120869351/91E06631-3DF8-A676-2E6F-4FC0E0B5BD3E)
+
+- During my two-week observation period, I gained firsthand insight into how product managers engage with customers and effectively attract them to their products.
+- Following this initial observation period, I was chosen to collaborate with DeepThought’s IPX client for the subsequent two weeks, during which I underwent training in Tailwind CSS and TypeScript.
+- Unfortunately, I had to conclude my internship prematurely due to academic commitments.
+
+# CERTIFICATIONS  
+- Certified in Java programming by Internship Studio.
+- [Relational Database and Data Analysis with Python - FreeCodeCamp](https://freecodecamp.org/certification/Potluri_pravith/relational-database-v8).  
+- [Data Analysis with R Programming authorized by Google (Coursera)](https://internshala.com/student/certificate/120869351/91E06631-3DF8-A676-2E6F-4FC0E0B5BD3E).  
+- Data Science Certification (Excel, SQL, Tableau, Machine Learning) - Cuvette. 
+
+# ACHIEVEMENTS  
+
+**Academic**:  
+- Certified a Consolation Prize (4th Prize) in the Auto WCE Bleed Challenge.  
+- Paper DDD selectedin the conference in 
+
+**External**:  
+- Participated in an inter-school chess tournament and advanced to the quarterfinals.
+

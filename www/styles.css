@@ -1,0 +1,26 @@
+body {
+  background-color: ; white ; 
+  font-family: Arial, sans-serif; 
+  color: black; 
+}
+
+
+
+h1 {
+  color: steelblue;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+p {
+  color: black; /* Clear and legible text color for paragraphs */
+  font-size: 16px; /* Comfortable reading size */
+  line-height: 1.6; /* Improves readability */
+}
+
+nav div {
+  background-color: yellow; 
+  
+  padding: 10px; 
+}
+
+

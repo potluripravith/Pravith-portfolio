@@ -1,0 +1,10 @@
+name: m552_gp_solutions
+title:
+username:
+account: dq-test
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3435023
+bundleId: 4041526
+url: https://dq-test.shinyapps.io/m552_gp_solutions/
+when: 1609318749.46312

@@ -1,0 +1,3 @@
+"0","split_indices <- createDataPartition(cars$price, p = 0.8, list = FALSE)"
+"0","train_cars <- cars[split_indices,]"
+"0","test_cars <- cars[-split_indices,]"

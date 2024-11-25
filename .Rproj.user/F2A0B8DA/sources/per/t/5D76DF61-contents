@@ -1,0 +1,16 @@
+shinyUI(navbarPage(
+    title = "Project Portfolio",
+    tabPanel(title = "Home",
+             includeMarkdown("www/splash.Rmd")
+             ),
+    tabPanel(title = "Resume",
+             includeMarkdown("www/resume.Rmd")
+             ),
+    navbarMenu(title = "Projects",
+               tabPanel(title = "Project Page Skeleton",
+                        uiOutput("skeleton_page")),
+               tabPanel(title = "Lottery Calculations",
+                        uiOutput("probability_page"))
+               )
+    )
+)
