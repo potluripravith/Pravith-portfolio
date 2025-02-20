@@ -40,13 +40,13 @@ Open the app.R file and run it in your R environment.
 shiny::runApp("path_to_app_directory")
 
 ### File Structure
-/app.R                 # The main R script that runs the Shiny app
-/www/                  # Directory containing additional markdown files for different sections
-  /Home.Rmd            # The markdown file for the home page
-  /resume.Rmd          # The markdown file for the resume page
-  /Movie_Recommendation.Rmd  # The markdown file for the Movie Recommendation project
-  /Predicting_Car_Prices.Rmd # The markdown file for the Car Price Prediction project
-/styles.css
+- `app.R`                 # The main R script that runs the Shiny app
+- `/www/`                  # Directory containing additional markdown files for different sections
+  - `/Home.Rmd`            # The markdown file for the home page
+  - `/resume.Rmd`          # The markdown file for the resume page
+  - `/Movie_Recommendation.Rmd`  # The markdown file for the Movie Recommendation project
+  - `/Predicting_Car_Prices.Rmd` # The markdown file for the Car Price Prediction project
+- `/styles.css`            # The CSS file used to style the app
 
 
 
